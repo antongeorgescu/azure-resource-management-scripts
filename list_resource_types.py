@@ -291,10 +291,10 @@ def main():
     """
     # Define target subscriptions
     target_subscriptions = [
-        "ESS-PROD-C00-001",
-        "SLProd", 
-        "SLSharedDR",
-        "SLSharedProd"
+        "<subscription-name>",
+        "<subscription-name>",
+        "<subscription-name>",
+        "<subscription-name>"
     ]
     
     try:
